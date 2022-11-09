@@ -9,4 +9,4 @@ def main(data:str):
 
 # Read data from file
 f=open('data01.txt')
-print(f.read())
+print(f.read()) 
